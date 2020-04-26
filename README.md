@@ -5,5 +5,5 @@ Import the json in Watson Assistant chatbot skill. Configure Assistant to talk t
 
 Integrating IBM Watson Assistant with IBM Watson Discovery
 
-[/images/Watson_Assistant.png]()
-[/images/Watson_Discovery.png]()
+[images/Watson_Assistant.png]()
+[images/Watson_Discovery.png]()
